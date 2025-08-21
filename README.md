@@ -60,7 +60,6 @@ Now users just **fill in the required info once**, and the script automates the 
 
 <img width="572" height="301" alt="image" src="https://github.com/user-attachments/assets/9c778f41-f105-4dbc-9d32-ac42562529a8" />
 
-
 ---
 
 ## ⚡ Setup & Usage
@@ -78,4 +77,6 @@ python BETA_v0.1_Internal\ Tool.py
 ```
 
 Fill in the required input → sit back while the tool automates the rest.
+
+---
 
