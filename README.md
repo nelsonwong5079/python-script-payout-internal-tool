@@ -58,7 +58,8 @@ Now users just **fill in the required info once**, and the script automates the 
 
 ## 📸 Screenshots
 
-*(Add screenshots or GIFs of the tool in action here — e.g., input form → auto email sent)*
+<img width="572" height="301" alt="image" src="https://github.com/user-attachments/assets/9c778f41-f105-4dbc-9d32-ac42562529a8" />
+
 
 ---
 
